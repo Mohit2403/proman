@@ -1,0 +1,3 @@
+# Project exclude paths
+/proman-api/target/
+/proman-db/target/
