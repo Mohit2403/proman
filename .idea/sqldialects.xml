@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/proman-db/src/main/resources/sql/db-seed-data.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/proman-db/src/main/resources/sql/db-setup-roles.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/proman-db/src/main/resources/sql/db-setup-users.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/proman-db/src/main/resources/sql/db-setup.sql" dialect="PostgreSQL" />
+  </component>
+</project>
